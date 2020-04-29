@@ -21,12 +21,6 @@ Admin
 5. View user
 6.Notes
 
-### Prerequisites
-
-1. Code editor (VS code)
-2. Localserver (I'm using WAMP server)
-3. Composer
-
 ### Installing
 
 1. Clone the repository using the command "git clone [link]"
