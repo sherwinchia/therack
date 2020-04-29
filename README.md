@@ -19,7 +19,7 @@ Admin
 3. CRUD size
 4. Manage order
 5. View user
-6.Notes
+6. Notes
 
 ### Installing
 
