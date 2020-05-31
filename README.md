@@ -1,4 +1,4 @@
-# therack E-commerce
+# therack E-commerce Website
 
 This my first project with laravel. It's not the best but worth sharing. The website have three type of users with different functionality.
 
