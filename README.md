@@ -40,10 +40,3 @@ $php artisan serve
 * JQuery- Javascript framework
 * Laravel - PHP framework
 * MySql- Databse
-
-
-## Notes
-
-I'm new on github, please correct me if I'm wrong. Thankyou!
-
-
