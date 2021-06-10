@@ -32,6 +32,7 @@ $composer install
 $php artisan migrate
 $php artisan db:seed
 $php artisan serve
+$php artisan storage:link
 ```
 
 ## Built With
