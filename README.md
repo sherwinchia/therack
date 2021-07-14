@@ -21,7 +21,7 @@ Admin
 5. View user
 6. Notes
 
-### Installing
+### Installation
 
 1. Clone the repository using the command "git clone [link]"
 2. Create database in MySql
