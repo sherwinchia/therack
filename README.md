@@ -41,3 +41,5 @@ $php artisan storage:link
 * JQuery- Javascript framework
 * Laravel - PHP framework
 * MySql- Databse
+
+Demo: https://www.youtube.com/watch?v=9WpcCnBOa8Q
