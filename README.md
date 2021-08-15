@@ -1,6 +1,8 @@
 ![banner](https://banners.beyondco.de/The%20Rack.png?theme=light&packageManager=&packageName=https%3A%2F%2Fgithub.com%2Fsherwinchia%2Ftherack&pattern=rain&style=style_1&description=Laravel+7+Ecommerce+Website&md=0&showWatermark=0&fontSize=125px&images=shopping-cart&widths=250&heights=250)
 
-This my first project with laravel. It's not the best but worth sharing. The website have three type of users with different functionality.
+## The Rack - Ecommerce Website
+
+### Features
 
 Guest
 1. View Product
@@ -35,7 +37,7 @@ $php artisan serve
 $php artisan storage:link
 ```
 
-## Built With
+### Built With
 
 * Bootstrap- CSS framework
 * JQuery- Javascript framework
