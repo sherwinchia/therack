@@ -1,4 +1,4 @@
-# therack E-commerce Website
+![banner](https://banners.beyondco.de/The%20Rack.png?theme=light&packageManager=&packageName=https%3A%2F%2Fgithub.com%2Fsherwinchia%2Ftherack&pattern=rain&style=style_1&description=Laravel+7+Ecommerce+Website&md=0&showWatermark=0&fontSize=125px&images=shopping-cart&widths=250&heights=250)
 
 This my first project with laravel. It's not the best but worth sharing. The website have three type of users with different functionality.
 
@@ -21,7 +21,7 @@ Admin
 5. View user
 6. Notes
 
-### Installing
+### Installation
 
 1. Clone the repository using the command "git clone [link]"
 2. Create database in MySql
@@ -32,6 +32,7 @@ $composer install
 $php artisan migrate
 $php artisan db:seed
 $php artisan serve
+$php artisan storage:link
 ```
 
 ## Built With
