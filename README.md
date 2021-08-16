@@ -24,7 +24,6 @@ Admin
 6. Notes
 
 ### Installation
-
 1. Clone the repository using the command "git clone [link]"
 2. Create database in MySql
 3. Configure the .env file accordingly
@@ -38,10 +37,13 @@ $php artisan storage:link
 ```
 
 ### Built With
-
 * Bootstrap- CSS framework
 * JQuery- Javascript framework
 * Laravel - PHP framework
 * MySql- Databse
 
-Demo: https://www.youtube.com/watch?v=9WpcCnBOa8Q
+### Demo
+https://www.youtube.com/watch?v=9WpcCnBOa8Q
+
+### Note
+If you find this repository useful, don't forget to star the repository. Credit not required but much appreciated! 
