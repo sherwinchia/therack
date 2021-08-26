@@ -47,3 +47,7 @@ https://www.youtube.com/watch?v=9WpcCnBOa8Q
 
 ### Note
 If you find this repository useful, don't forget to star the repository. Credit not required but much appreciated! 
+
+### Token of appreciation
+[Saweria](https://saweria.co/sherwinchia) or 
+[Paypal](https://www.paypal.me/sherwinchia)
